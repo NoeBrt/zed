@@ -1,6 +1,6 @@
 # Collapsible repository sections — real Zed captures
 
-These screenshots were captured from a macOS development build of Zed at code commit `9f9328a65b284f08a9d67270c85fc0c8269be40a`.
+These screenshots were captured from a macOS development build of Zed at code commit `26a138e57f31d41b5e88fd8b297041f6da48dd73`.
 
 The GIF is a sequence of actual screenshots captured while expanding repository sections and opening the pipeline history. It is a step-through demonstration, not continuous video. No UI or image was generated. Screenshots are converted to PNG; GIF frames are resized to 1200×780.
 
